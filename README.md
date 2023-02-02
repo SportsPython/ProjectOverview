@@ -7,9 +7,9 @@ This project exists thanks to a seed grant from the **[EuroPython Society](https
 ## Available OER to-date (Feb '23)
 * 2x full workshops as JupyterLite distributions (including match data, pitch graphic, code notebooks):
   * [Intro to Coding for the Sports industry](https://github.com/SportsPython/BirkbeckSep22)
-      * 3hrs of material, designed/effective as an interactive lab for university students/professional attendees without previous programming experience.
+      * 3 hours of material, designed/effective as an interactive lab for university students/professional attendees without previous programming experience.
   * [Python Football Analytics/replicating FIFA Football Intelligence](https://github.com/SportsPython/SouthfieldsDec22)
-      * 2hrs of material, designed/effective as an interactive lab for for secondary education students without previous programming experience.
+      * 2 hours of material, designed/effective as an interactive lab for for secondary education students without previous programming experience.
       * Reference/contextual material available at [FIFA Training Centre](https://www.fifatrainingcentre.com/en/), for example Men's World Cup '22 match reports illustrating [FIFA data visualisation deliverables](https://www.fifatrainingcentre.com/en/fwc2022/post-match-summaries/post-match-summary-reports.php).
 * Player Icons for 11x Arsenal & 11x Man U squad from 21/22 Premier League season [here](https://github.com/SportsPython/OpenEducationalResources/tree/main/Football)
 
