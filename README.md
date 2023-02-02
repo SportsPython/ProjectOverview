@@ -18,7 +18,7 @@ If you use the project in some way (non-commercially of course, as per our licen
 > Thanks to/OER from the Sports Python Educational Project, available under CC BY-NC-SA 4.0 license at github.com/SportsPython. Developed with support from the EuroPython Society.
 
 ## Feedback, Testimonials, User Experiences...
-We'd love to get your (constructive!) feedback about any interaction you have with this initiative, in order to help the project develop it's effectiveness for social impact. Please do drop us an email (to the contact details below).
+We'd love to get your (constructive!) feedback about any interaction you have with this initiative, in order to help the project develop it's effectiveness for social impact. Do drop us an email (to the contact details below).
 
 
 ---
