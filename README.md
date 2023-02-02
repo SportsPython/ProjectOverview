@@ -13,7 +13,12 @@ This project exists thanks to a seed grant from the **[EuroPython Society](https
       * Reference/contextual material available at [FIFA Training Centre](https://www.fifatrainingcentre.com/en/), for example Men's World Cup '22 match reports illustrating [FIFA data visualisation deliverables](https://www.fifatrainingcentre.com/en/fwc2022/post-match-summaries/post-match-summary-reports.php).
 * Player Icons for 11x Arsenal & 11x Man U squad from 21/22 Premier League season [here](https://github.com/SportsPython/OpenEducationalResources/tree/main/Football)
 
+## Attribution
+If you use the project in some way (non-commercially of course, as per our license!), please attribute us by making some reference, such as:
+> Thanks to/OER from the Sports Python Educational Project, available under CC BY-NC-SA 4.0 license at github.com/SportsPython. Developed with support from the EuroPython Society.
 
+## Feedback, Testimonials, User Experiences...
+We'd love to get your (constructive!) feedback about any interaction you have with this initiative, in order to help the project develop it's effectiveness for social impact. Please do drop us an email (to the contact details below).
 
 
 ---
